@@ -3,7 +3,7 @@
 from time import strftime, gmtime, localtime
 
 created = "Created Thurs 02 Dec 2021 22:43"
-track = "Amaarae - 3AM"
+track = "Amaarae - SAD, U BROKE MY HEART"
 
 a = strftime("%H:%M:%S", localtime())  # So to remember this I try to memorize that time in 24h format = ALL UPPERCASE.
 print(a)
