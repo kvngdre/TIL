@@ -11,6 +11,6 @@ print(countOf(o, 'pink'))
 
 from collections import Counter
 print(Counter(o))  # Returns a dict-like of the value: count as the key-value pair.
-print(Counter(o)['pink'])
+print(Counter(o)['pink'])  # Returns the value of key 'pink'.
 
 
